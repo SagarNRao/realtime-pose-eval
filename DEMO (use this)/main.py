@@ -7,7 +7,7 @@ mp_pose = mp.solutions.pose
 pose = mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5)
 L = mp_pose.PoseLandmark
 
-REF_DIR = "../newWay/exercises"          # put squat.mp4, pushup.mp4, curl.mp4 ... here
+REF_DIR = "exercises"          # put squat.mp4, pushup.mp4, curl.mp4 ... here
 CACHE_DIR = "reference_cache"
 os.makedirs(CACHE_DIR, exist_ok=True)
 
