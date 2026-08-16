@@ -13,6 +13,9 @@ Full architecture achieves **<90 ms end-to-end latency** and **93% form-match ac
 ### Good Form (Lateral Raises)
 https://github.com/user-attachments/assets/e69d8f9f-e869-4e7d-a66f-90a36d209bb7
 
+### Bad Form (Lat Pull Downs)
+https://github.com/user-attachments/assets/2bbe2fa3-0195-4f08-a349-08bf78d4b8d1
+
 ## Project Objectives
 
 - Enable real-time pose comparison using MediaPipe on a Raspberry Pi
